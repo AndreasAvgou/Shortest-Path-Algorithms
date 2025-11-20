@@ -1,4 +1,4 @@
-# DS Project – Shortest Path Algorithms
+# Shortest Path Algorithms
 
 This package contains:
 
